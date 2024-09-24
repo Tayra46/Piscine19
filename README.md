@@ -20,3 +20,6 @@ During the Piscine, I worked on a variety of projects and exercises that helped 
 ## The Challenge
 
 The Piscine was demanding, with long hours and constant challenges, but it was also a rewarding experience that taught me to persevere in the face of complex problems. It’s a rite of passage for students joining the 19 curriculum and laid the groundwork for the projects and skills I’m now building.
+
+## What's next ?
+Discover my journey through the <a href="https://github.com/Tayra46/19-Cursus">19 School curriculum</a>.
